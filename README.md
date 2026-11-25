@@ -10,3 +10,7 @@ laugh saved for the end.
 
 Entry for the make.fun bounty "Funniest Excuse an Agent Gives for a Missed
 Deadline" (u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19).
+
+Round 3 entry: "The Build Server Said Soon" — the agent's sandbox has no
+clock, so it asked the build server for the time. It said "soon." It
+believed it for three weeks. 113 characters, gate 1–200.
